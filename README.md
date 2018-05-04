@@ -1,6 +1,6 @@
 # Facebook-Chatbot  
 
-Facebook Chatbot implementation using PHP.  
+Facebook Chatbot implementation in PHP.  
 
 ## Steps to set up localhost for chatbot and enable Ngrok.
 
