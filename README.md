@@ -2,7 +2,7 @@
 
 Facebook Chatbot implementation in PHP.  
 
-## Steps to set up localhost for chatbot and enable Ngrok.
+## Steps to set up localhost for chatbot.
 
 1. Install AMPPS (Local PHP Web server + MySQL)  
 2. To allow the tunnel request from facebook to localhost server, Install Ngrok  
